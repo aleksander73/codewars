@@ -18,7 +18,7 @@
 
 ## Intro
 
-<a href="https://www.codewars.com">Codewars</a> is an online repository containing 6,400+ programming challenges aka Kata. This repository is a summary of the challenges I have solved so far.
+<a href="https://www.codewars.com">Codewars</a> is an online repository containing 6,900+ programming challenges aka Kata. This repository is a summary of the challenges I have solved so far.
 
 <a name="c-rs"/>
 
@@ -27,7 +27,7 @@
 Each challenge on Codewars is assigned a rank which aims to convey the challenge difficulty. The complete list is given below.
 
 | # | Rank | Skill class |
-| ------ | ------ | ------ |
+| :---: | :---: | --- |
 | 1 | 1 kyu | Proficient |
 | 2 | 2 kyu | Proficient |
 | 3 | 3 kyu | Competent |
@@ -46,7 +46,7 @@ The complete Codewars documentation can be found <a href="https://www.codewars.c
 ## My profile
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
-| ------ | ------ | ------ | ------ | ------ |
+| :---: | :---: | :---: | :---: | :---: |
 | 3 kyu | 1,405 | Top 2.98% | # 8,635 | 92 |
 
 <br />
@@ -65,15 +65,15 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 
 ## Interesting Kata solutions
 | # | Kata | Rank | Reason |
-| ------ | ------ | ------ | ------ |
-| 1 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) | **3 kyu** | Algebra application |
-| 2 | [Conway's Game of Life - unlimited edition](https://www.codewars.com/kata/52423db9add6f6fc39000354) | **4 kyu** | Evolutionary algorithm |
-| 3 | [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027) | **4 kyu** | Derivatives application |
-| 4 | [Matrix determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c) | **4 kyu** | Linear algebra application |
-| 5 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | **4 kyu** | Clever optimization solution |
-| 6 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | **4 kyu** | Complex numbers used to rotate a 2d vector |
-| 7 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) | **3 kyu** | Interesting combinatorics problem |
-| 8 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | **3 kyu** | Interesting mathematical puzzle |
+| :---: | --- | :---: | --- |
+| 1 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) | 3 kyu | Algebra application |
+| 2 | [Conway's Game of Life - unlimited edition](https://www.codewars.com/kata/52423db9add6f6fc39000354) | 4 kyu | Evolutionary algorithm |
+| 3 | [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027) | 4 kyu | Derivatives application |
+| 4 | [Matrix determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c) | 4 kyu | Linear algebra application |
+| 5 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | 4 kyu | Clever optimization solution |
+| 6 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | Complex numbers used to rotate a 2d vector |
+| 7 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) | 3 kyu | Interesting combinatorics problem |
+| 8 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | 3 kyu | Interesting mathematical puzzle |
 
 <a name="kata-list"/>
 
@@ -84,7 +84,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 ### 3 kyu
 
 | # | Kata |
-| ------ | ------ |
+| :---: | --- |
 | 1 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) |
 | 2 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) |
 | 3 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
@@ -96,7 +96,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 ### 4 kyu
 
 | # | Kata |
-| ------ | ------ |
+| :---: | --- |
 | 1 | [Conway's Game of Life - unlimited edition](https://www.codewars.com/kata/52423db9add6f6fc39000354) |
 | 2 | [Decode the Morse code - advanced](https://www.codewars.com/kata/54b72c16cd7f5154e9000457) |
 | 3 | [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027) |
@@ -126,7 +126,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 ### 5 kyu
 
 | # | Kata |
-| ------ | ------ |
+| :---: | --- |
 | 1 | [Calculating with functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) |
 | 2 | [Can you get the loop?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863) |
 | 3 | [Directions reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) |
@@ -155,7 +155,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 ### 6 kyu
 
 | # | Kata |
-| ------ | ------ |
+| :---: | --- |
 | 1 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) |
 | 2 | [Bit counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) |
 | 3 | [Counting duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) |
@@ -183,7 +183,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 ### 7 kyu
 
 | # | Kata |
-| ------ | ------ |
+| :---: | --- |
 | 1 | [Beginner series #3: Sum of numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) |
 | 2 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) |
 | 3 | [Credit card mask](https://www.codewars.com/kata/5412509bd436bd33920011bc) |
@@ -211,7 +211,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 ### 8 kyu
 
 | # | Kata |
-| ------ | ------ |
+| :---: | --- |
 | 1 | [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb) |
 | 2 | [Can we divide it?](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a) |
 | 3 | [Convert string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) |
