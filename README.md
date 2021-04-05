@@ -108,7 +108,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 9 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) |
 | 10 | [Range extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) |
 | 11 | [Recover a secret string from random triplets](https://www.codewars.com/kata/53f40dff5f9d31b813000774) |
-| 12 | [Simple Fun #27: Rectangle Rotation](https://www.codewars.com/kata/5886e082a836a691340000c3) |
+| 12 | [Simple Fun #27: Rectangle rotation](https://www.codewars.com/kata/5886e082a836a691340000c3) |
 | 13 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) |
 | 14 | [Strings mix](https://www.codewars.com/kata/5629db57620258aa9d000014) |
 | 15 | [Strip comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) |
