@@ -47,7 +47,7 @@ The complete Codewars documentation can be found <a href="https://www.codewars.c
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,405 | Top 2.98% | # 8,635 | 92 |
+| 3 kyu | 1,437 | Top 2.86% | # 8,304 | 93 |
 
 <br />
 
@@ -86,8 +86,9 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | # | Kata |
 | :---: | --- |
 | 1 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) |
-| 2 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) |
-| 3 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
+| 2 | [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) |
+| 3 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) |
+| 4 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
 
 <h1></h1>
 
