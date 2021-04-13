@@ -47,7 +47,7 @@ The complete Codewars documentation can be found <a href="https://www.codewars.c
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,437 | Top 2.86% | # 8,304 | 93 |
+| 3 kyu | 1,469 | Top 2.74% | # 8,000 | 94 |
 
 <br />
 
@@ -67,13 +67,14 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | # | Kata | Rank | Reason |
 | :---: | --- | :---: | --- |
 | 1 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) | 3 kyu | Algebra application |
-| 2 | [Conway's Game of Life - unlimited edition](https://www.codewars.com/kata/52423db9add6f6fc39000354) | 4 kyu | Evolutionary algorithm |
-| 3 | [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027) | 4 kyu | Derivatives application |
-| 4 | [Matrix determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c) | 4 kyu | Linear algebra application |
-| 5 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | 4 kyu | Clever optimization solution |
-| 6 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) | 3 kyu | Interesting combinatorics problem |
-| 7 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | Complex numbers used to rotate a 2d vector |
-| 8 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | 3 kyu | Interesting mathematical puzzle |
+| 2 | [Blobservation](https://www.codewars.com/kata/5abab55b20746bc32e000008) | 3 kyu | Evolutionary algorithm |
+| 3 | [Conway's Game of Life - unlimited edition](https://www.codewars.com/kata/52423db9add6f6fc39000354) | 4 kyu | Evolutionary algorithm |
+| 4 | [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027) | 4 kyu | Derivatives application |
+| 5 | [Matrix determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c) | 4 kyu | Linear algebra application |
+| 6 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | 4 kyu | Clever optimization solution |
+| 7 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) | 3 kyu | Interesting combinatorics problem |
+| 8 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | Complex numbers used to rotate a 2d vector |
+| 9 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | 3 kyu | Interesting mathematical puzzle |
 
 <a name="kata-list"/>
 
@@ -86,9 +87,10 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | # | Kata |
 | :---: | --- |
 | 1 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) |
-| 2 | [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) |
-| 3 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) |
-| 4 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
+| 2 | [Blobservation](https://www.codewars.com/kata/5abab55b20746bc32e000008) |
+| 3 | [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) |
+| 4 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) |
+| 5 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
 
 <h1></h1>
 
