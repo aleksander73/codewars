@@ -37,9 +37,9 @@ Each challenge on Codewars is assigned a rank which aims to convey the challenge
 | 7 | 7 kyu | Beginner |
 | 8 | 8 kyu | Beginner |
 
-Every new user starts at rank `8 kyu` and works their way up by solving challenges (Kata) at or above their current rank.
+Every new user starts at rank `8 kyu` and works their way up by solving challenges (Kata) at or above their current rank. You can read more about the ranking system <a href="https://docs.codewars.com/gamification/ranks">here</a>.
 
-The complete Codewars documentation can be found <a href="https://www.codewars.com/docs">here</a>.
+The complete Codewars documentation can be found <a href="https://docs.codewars.com/">here</a>.
 
 <a name="profile"/>
 
@@ -47,7 +47,7 @@ The complete Codewars documentation can be found <a href="https://www.codewars.c
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,469 | Top 2.74% | # 8,000 | 94 |
+| 3 kyu | 1,469 | Top 2.74% | # 8,010 | 94 |
 
 <br />
 
