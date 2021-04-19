@@ -24,20 +24,22 @@
 
 ## Challenges and ranking system
 
-Each challenge on Codewars is assigned a rank which aims to convey the challenge difficulty. The complete list is given below.
+Each challenge (Kata) on Codewars is assigned a rank which aims to convey the challenge difficulty. The complete list is given below.
 
-| # | Rank | Skill class |
+| # | Rank | Difficulty class |
 | :---: | :---: | --- |
-| 1 | 1 kyu | Proficient |
-| 2 | 2 kyu | Proficient |
-| 3 | 3 kyu | Competent |
-| 4 | 4 kyu | Competent |
-| 5 | 5 kyu | Novice |
-| 6 | 6 kyu | Novice |
-| 7 | 7 kyu | Beginner |
-| 8 | 8 kyu | Beginner |
+| 1 | 1 kyu | Expert |
+| 2 | 2 kyu | Very difficult |
+| 3 | 3 kyu | Difficult |
+| 4 | 4 kyu | Advanced |
+| 5 | 5 kyu | Medium |
+| 6 | 6 kyu | Easy |
+| 7 | 7 kyu | Very easy |
+| 8 | 8 kyu | Trivial |
 
-Every new user starts at rank `8 kyu` and works their way up by solving challenges (Kata) at or above their current rank. You can read more about the ranking system <a href="https://docs.codewars.com/gamification/ranks">here</a>.
+Every new user starts at rank `8 kyu` and works their way up by solving challenges at or above their current rank.
+
+Read more about the ranking system <a href="https://docs.codewars.com/gamification/ranks">here</a>.
 
 The complete Codewars documentation can be found <a href="https://docs.codewars.com/">here</a>.
 
