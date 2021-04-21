@@ -49,7 +49,7 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,533 | Top 2.53% | # 7,429 | 96 |
+| 3 kyu | 1,565 | Top 2.46% | # 7,234 | 97 |
 
 <br />
 
@@ -94,8 +94,9 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 3 | [Decode secret messages](https://www.codewars.com/kata/52cf02cd825aef67070008fa) |
 | 4 | [Huffman encoding](https://www.codewars.com/kata/54cf7f926b85dcc4e2000d9d) |
 | 5 | [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) |
-| 6 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) |
-| 7 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
+| 6 | [Rail fence cipher](https://www.codewars.com/kata/58c5577d61aefcf3ff000081) |
+| 7 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) |
+| 8 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
 
 <h1></h1>
 
