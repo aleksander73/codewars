@@ -49,7 +49,7 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,661 | Top 2.20% | # 6,527 | 100 |
+| 3 kyu | 1,663 | Top 2.13% | # 7,071 | 101 |
 
 <br />
 
@@ -209,12 +209,13 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 11 | [Jaden-casing strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) |
 | 12 | [List filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) |
 | 13 | [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) |
-| 14 | [Shortest word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) |
-| 15 | [Square every digit](https://www.codewars.com/kata/546e2562b03326a88e000020) |
-| 16 | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) |
-| 17 | [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) |
-| 18 | [Vowel count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) |
-| 19 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) |
+| 14 | [Pandemia](https://www.codewars.com/kata/5e2596a9ad937f002e510435) |
+| 15 | [Shortest word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) |
+| 16 | [Square every digit](https://www.codewars.com/kata/546e2562b03326a88e000020) |
+| 17 | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) |
+| 18 | [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) |
+| 19 | [Vowel count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) |
+| 20 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) |
 
 <h1></h1>
 
