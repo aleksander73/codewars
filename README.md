@@ -1,30 +1,25 @@
 <p align="center"><img title="Codewars" height="100px" src="./assets/codewars.png"/></p>
 <h1 align="center">Codewars</h1>
 
-# Index
 - [Intro](#intro)
-- [Challenges and ranking system](#c-rs)
-- [My profile](#profile)
-- [Interesting Kata solutions](#interesting)
-- [All solved Kata challenges](#kata-list)
-  - [3 kyu](#kata-list-3-kyu)
-  - [4 kyu](#kata-list-4-kyu)
-  - [5 kyu](#kata-list-5-kyu)
-  - [6 kyu](#kata-list-6-kyu)
-  - [7 kyu](#kata-list-7-kyu)
-  - [8 kyu](#kata-list-8-kyu)
-
-<a name="intro"/>
+- [Challenges and ranking system](#challenges-and-ranking-system)
+- [My profile](#my-profile)
+- [Interesting Kata solutions](#interesting-kata-solutions)
+- [All solved Kata challenges](#all-solved-kata-challenges)
+  - [3 kyu](#3-kyu)
+  - [4 kyu](#4-kyu)
+  - [5 kyu](#5-kyu)
+  - [6 kyu](#6-kyu)
+  - [7 kyu](#7-kyu)
+  - [8 kyu](#8-kyu)
 
 ## Intro
 
-<a href="https://www.codewars.com">Codewars</a> is an online repository containing 6,900+ programming challenges aka Kata. This repository is a summary of the challenges I have solved so far.
-
-<a name="c-rs"/>
+<a href="https://www.codewars.com">Codewars</a> is an online repository containing 7,500+ programming challenges aka Kata. This repository is a summary of the challenges I have solved so far.
 
 ## Challenges and ranking system
 
-Each challenge (Kata) on Codewars is assigned a rank which aims to convey the challenge difficulty. The complete list is given below.
+Each challenge (Kata) on Codewars is assigned a rank which aims to convey the challenge's difficulty. The complete list is given below.
 
 | # | Rank | Difficulty class |
 | :---: | :---: | --- |
@@ -43,13 +38,13 @@ Read more about the ranking system <a href="https://docs.codewars.com/gamificati
 
 The complete Codewars documentation can be found <a href="https://docs.codewars.com/">here</a>.
 
-<a name="profile"/>
-
 ## My profile
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,695 | Top 2.06% | # 6,844 | 102 |
+| 3 kyu | 1,695 | top 1.82% | # 10,492 | 102 |
+
+Last updated: September 17th, 2023
 
 <br />
 
@@ -62,8 +57,6 @@ Up to date profile <a href="https://www.codewars.com/users/aleksander73/badges/l
 My profile can be found <a href="https://www.codewars.com/users/aleksander73">here</a>.
 
 The GitHub repository with all Kata solutions has been made private. Proof in a form of a zipped archive available on request.
-
-<a name="interesting"/>
 
 ## Interesting Kata solutions
 | # | Kata | Rank | Reason |
@@ -79,11 +72,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 9 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | Complex numbers used to rotate a 2d vector |
 | 10 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | 3 kyu | Interesting mathematical puzzle |
 
-<a name="kata-list"/>
-
 ## All solved Kata challenges
-
-<a name="kata-list-3-kyu"/>
 
 ### 3 kyu
 
@@ -103,8 +92,6 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 12 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
 
 <h1></h1>
-
-<a name="kata-list-4-kyu"/>
 
 ### 4 kyu
 
@@ -134,8 +121,6 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 
 <h1></h1>
 
-<a name="kata-list-5-kyu"/>
-
 ### 5 kyu
 
 | # | Kata |
@@ -163,8 +148,6 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 
 <h1></h1>
 
-<a name="kata-list-6-kyu"/>
-
 ### 6 kyu
 
 | # | Kata |
@@ -190,8 +173,6 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 19 | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
 
 <h1></h1>
-
-<a name="kata-list-7-kyu"/>
 
 ### 7 kyu
 
@@ -219,8 +200,6 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 20 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) |
 
 <h1></h1>
-
-<a name="kata-list-8-kyu"/>
 
 ### 8 kyu
 
