@@ -42,9 +42,9 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,695 | top 1.82% | # 10,492 | 102 |
+| 3 kyu | 1,727 | top 1.743% | # 12,423 | 103 |
 
-Last updated: September 17th, 2023
+Last updated: June 16th, 2025
 
 <br />
 
@@ -71,6 +71,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 8 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) | 3 kyu | Interesting combinatorics problem |
 | 9 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | Complex numbers used to rotate a 2d vector |
 | 10 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | 3 kyu | Interesting mathematical puzzle |
+| 11 | [Upside down numbers - challenge edition](https://www.codewars.com/kata/59f98052120be4abfa000304) | 3 kyu | Operations on base 5 numbers |
 
 ## All solved Kata challenges
 
@@ -90,6 +91,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 10 | [Rail fence cipher](https://www.codewars.com/kata/58c5577d61aefcf3ff000081) |
 | 11 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) |
 | 12 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) |
+| 13 | [Upside down numbers - challenge edition](https://www.codewars.com/kata/59f98052120be4abfa000304) |
 
 <h1></h1>
 
