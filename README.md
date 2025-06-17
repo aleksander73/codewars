@@ -42,9 +42,9 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,727 | top 1.743% | # 12,423 | 103 |
+| 3 kyu | 1,759 | top 1.681% | # 11,977 | 104 |
 
-Last updated: June 16th, 2025
+Last updated: June 17th, 2025
 
 <br />
 
@@ -70,8 +70,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 7 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | 4 kyu | Clever optimization solution |
 | 8 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) | 3 kyu | Interesting combinatorics problem |
 | 9 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | Complex numbers used to rotate a 2d vector |
-| 10 | [Sudoku solver](https://www.codewars.com/kata/5296bc77afba8baa690002d7) | 3 kyu | Interesting mathematical puzzle |
-| 11 | [Upside down numbers - challenge edition](https://www.codewars.com/kata/59f98052120be4abfa000304) | 3 kyu | Operations on base 5 numbers |
+| 10 | [Upside down numbers - challenge edition](https://www.codewars.com/kata/59f98052120be4abfa000304) | 3 kyu | Operations on base 5 numbers |
 
 ## All solved Kata challenges
 
@@ -104,22 +103,23 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 3 | [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027) |
 | 4 | [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a) |
 | 5 | [Matrix determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c) |
-| 6 | [Path Finder #1: Can you reach the exit?](https://www.codewars.com/kata/5765870e190b1472ec0022a2) |
-| 7 | [Path Finder #2: Shortest path](https://www.codewars.com/kata/57658bfa28ed87ecfa00058a) |
-| 8 | [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) |
-| 9 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) |
-| 10 | [Range extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) |
-| 11 | [Recover a secret string from random triplets](https://www.codewars.com/kata/53f40dff5f9d31b813000774) |
-| 12 | [Simple Fun #27: Rectangle rotation](https://www.codewars.com/kata/5886e082a836a691340000c3) |
-| 13 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) |
-| 14 | [Strings mix](https://www.codewars.com/kata/5629db57620258aa9d000014) |
-| 15 | [Strip comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) |
-| 16 | [Sudoku solution validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) |
-| 17 | [Sum of intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) |
-| 18 | [Sum strings as numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) |
-| 19 | [Text align justify](https://www.codewars.com/kata/537e18b6147aa838f600001b) |
-| 20 | [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d) |
-| 21 | [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) |
+| 6 | [Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e) |
+| 7 | [Path Finder #1: Can you reach the exit?](https://www.codewars.com/kata/5765870e190b1472ec0022a2) |
+| 8 | [Path Finder #2: Shortest path](https://www.codewars.com/kata/57658bfa28ed87ecfa00058a) |
+| 9 | [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) |
+| 10 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) |
+| 11 | [Range extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) |
+| 12 | [Recover a secret string from random triplets](https://www.codewars.com/kata/53f40dff5f9d31b813000774) |
+| 13 | [Simple Fun #27: Rectangle rotation](https://www.codewars.com/kata/5886e082a836a691340000c3) |
+| 14 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) |
+| 15 | [Strings mix](https://www.codewars.com/kata/5629db57620258aa9d000014) |
+| 16 | [Strip comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) |
+| 17 | [Sudoku solution validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) |
+| 18 | [Sum of intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) |
+| 19 | [Sum strings as numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) |
+| 20 | [Text align justify](https://www.codewars.com/kata/537e18b6147aa838f600001b) |
+| 21 | [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d) |
+| 22 | [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) |
 
 <h1></h1>
 
