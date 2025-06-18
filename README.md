@@ -6,6 +6,7 @@
 - [My profile](#my-profile)
 - [Interesting Kata solutions](#interesting-kata-solutions)
 - [All solved Kata challenges](#all-solved-kata-challenges)
+  - [2 kyu](#2-kyu)
   - [3 kyu](#3-kyu)
   - [4 kyu](#4-kyu)
   - [5 kyu](#5-kyu)
@@ -42,9 +43,9 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 3 kyu | 1,759 | top 1.681% | # 11,977 | 104 |
+| 3 kyu | 1,887 | top 1.462% | # 10,424 | 105 |
 
-Last updated: June 17th, 2025
+Last updated: June 19th, 2025
 
 <br />
 
@@ -61,18 +62,26 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 ## Interesting Kata solutions
 | # | Kata | Rank | Reason |
 | :---: | --- | :---: | --- |
-| 1 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) | 3 kyu | Algebra application |
-| 2 | [Blobservation](https://www.codewars.com/kata/5abab55b20746bc32e000008) | 3 kyu | Evolutionary algorithm |
-| 3 | [Conway's Game of Life - unlimited edition](https://www.codewars.com/kata/52423db9add6f6fc39000354) | 4 kyu | Evolutionary algorithm |
+| 1 | [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005) | 2 kyu | Parsing mathematical expressions |
+| 2 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) | 3 kyu | Algebra application |
+| 3 | [Blobservation](https://www.codewars.com/kata/5abab55b20746bc32e000008) | 3 kyu | Evolutionary algorithm |
 | 4 | [Decode secret messages](https://www.codewars.com/kata/52cf02cd825aef67070008fa) | 3 kyu | Encryption algorithm reversal |
-| 5 | [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027) | 4 kyu | Derivatives application |
-| 6 | [Matrix determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c) | 4 kyu | Linear algebra application |
-| 7 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | 4 kyu | Clever optimization solution |
-| 8 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) | 3 kyu | Interesting combinatorics problem |
-| 9 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | Complex numbers used to rotate a 2d vector |
-| 10 | [Upside down numbers - challenge edition](https://www.codewars.com/kata/59f98052120be4abfa000304) | 3 kyu | Operations on base 5 numbers |
+| 5 | [Screen locking patterns](https://www.codewars.com/kata/585894545a8a07255e0002f1) | 3 kyu | Interesting combinatorics problem |
+| 6 | [Upside down numbers - challenge edition](https://www.codewars.com/kata/59f98052120be4abfa000304) | 3 kyu | Operations on base 5 numbers |
+| 7 | [Conway's Game of Life - unlimited edition](https://www.codewars.com/kata/52423db9add6f6fc39000354) | 4 kyu | Evolutionary algorithm |
+| 8 | [Differentiate a polynomial](https://www.codewars.com/kata/566584e3309db1b17d000027) | 4 kyu | Derivatives application |
+| 9 | [Pyramid slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | 4 kyu | Clever optimization solution |
+| 10 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | 4 kyu | Complex numbers used to rotate a 2d vector |
 
 ## All solved Kata challenges
+
+### 2 kyu
+
+| # | Kata |
+| :---: | --- |
+| 1 | [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005) |
+
+<h1></h1>
 
 ### 3 kyu
 
