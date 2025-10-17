@@ -44,7 +44,7 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 2 kyu | 2,173 | top 1.125% | # 8,218 | 107 |
+| 2 kyu | 2,181 | top 1.118% | # 8,166 | 108 |
 
 Last updated: October 17th, 2025
 
@@ -148,6 +148,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 1 | [Calculating with functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) |
 | 2 | [Can you get the loop?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863) |
 | 3 | [Directions reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) |
+| 3 | [Esolang Interpreters #2 - Smallf**k interpreter](https://www.codewars.com/kata/58678d29dbca9a68d80000d7) |
 | 4 | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
 | 5 | [Human readable time](https://www.codewars.com/kata/52685f7382004e774f0001f7) |
 | 6 | [Integers - recreation one](https://www.codewars.com/kata/55aa075506463dac6600010d) |
@@ -179,7 +180,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 5 | [Decode the morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) |
 | 6 | [Duplicate encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) |
 | 7 | [Equal sides of an array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) |
-| 8 | [Esolang Interpreters #1 - Introduction to Esolangs](https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0) |
+| 8 | [Esolang Interpreters #1 - MiniStringF**k interpreter](https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0) |
 | 9 | [Find the odd integer](https://www.codewars.com/kata/54da5a58ea159efa38000836) |
 | 10 | [Find the parity outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
 | 11 | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) |
