@@ -148,24 +148,24 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 1 | [Calculating with functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) |
 | 2 | [Can you get the loop?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863) |
 | 3 | [Directions reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) |
-| 3 | [Esolang Interpreters #2 - Smallf**k interpreter](https://www.codewars.com/kata/58678d29dbca9a68d80000d7) |
-| 4 | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
-| 5 | [Human readable time](https://www.codewars.com/kata/52685f7382004e774f0001f7) |
-| 6 | [Integers - recreation one](https://www.codewars.com/kata/55aa075506463dac6600010d) |
-| 7 | [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004) |
-| 8 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) |
-| 9 | [Moving zeros to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
-| 10 | [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059) |
-| 11 | [Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7) |
-| 12 | [Product of consecutive Fibonacci numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
-| 13 | [RGB To Hex conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) |
-| 14 | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
-| 15 | [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) |
-| 16 | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
-| 17 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) |
-| 18 | [Valid parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688) |
-| 19 | [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) |
-| 20 | [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) |
+| 4 | [Esolang Interpreters #2 - Smallf**k interpreter](https://www.codewars.com/kata/58678d29dbca9a68d80000d7) |
+| 5 | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
+| 6 | [Human readable time](https://www.codewars.com/kata/52685f7382004e774f0001f7) |
+| 7 | [Integers - recreation one](https://www.codewars.com/kata/55aa075506463dac6600010d) |
+| 8 | [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004) |
+| 9 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) |
+| 10 | [Moving zeros to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
+| 11 | [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059) |
+| 12 | [Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7) |
+| 13 | [Product of consecutive Fibonacci numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
+| 14 | [RGB To Hex conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) |
+| 15 | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
+| 16 | [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) |
+| 17 | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
+| 18 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) |
+| 19 | [Valid parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688) |
+| 20 | [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) |
+| 21 | [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) |
 
 <h1></h1>
 
