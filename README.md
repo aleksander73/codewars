@@ -44,9 +44,9 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 2 kyu | 2,165 | top 1.127% | # 8,041 | 106 |
+| 2 kyu | 2,173 | top 1.125% | # 8,218 | 107 |
 
-Last updated: June 20th, 2025
+Last updated: October 17th, 2025
 
 <br />
 
@@ -179,18 +179,19 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 5 | [Decode the morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) |
 | 6 | [Duplicate encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) |
 | 7 | [Equal sides of an array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) |
-| 8 | [Find the odd integer](https://www.codewars.com/kata/54da5a58ea159efa38000836) |
-| 9 | [Find the parity outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
-| 10 | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) |
-| 11 | [Persistent bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) |
-| 12 | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) |
-| 13 | [Replace with alphabet position](https://www.codewars.com/kata/546f922b54af40e1e90001da) |
-| 14 | [Stop gninnips my sdrow!](https://www.codewars.com/kata/5264d2b162488dc400000001) |
-| 15 | [Sum of digits / digital root](https://www.codewars.com/kata/541c8630095125aba6000c00) |
-| 16 | [Take a 10 minute walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) |
-| 17 | [Tribonacci sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
-| 18| [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) |
-| 19 | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
+| 8 | [Esolang Interpreters #1 - Introduction to Esolangs](https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0) |
+| 9 | [Find the odd integer](https://www.codewars.com/kata/54da5a58ea159efa38000836) |
+| 10 | [Find the parity outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
+| 11 | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) |
+| 12 | [Persistent bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) |
+| 13 | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) |
+| 14 | [Replace with alphabet position](https://www.codewars.com/kata/546f922b54af40e1e90001da) |
+| 15 | [Stop gninnips my sdrow!](https://www.codewars.com/kata/5264d2b162488dc400000001) |
+| 16 | [Sum of digits / digital root](https://www.codewars.com/kata/541c8630095125aba6000c00) |
+| 17 | [Take a 10 minute walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) |
+| 18 | [Tribonacci sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
+| 19| [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) |
+| 20 | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
 
 <h1></h1>
 
