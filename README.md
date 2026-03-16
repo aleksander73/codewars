@@ -44,9 +44,9 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 2 kyu | 2,181 | top 1.118% | # 8,166 | 108 |
+| 2 kyu | 2,189 | top 1.108% | # 8,303 | 109 |
 
-Last updated: October 17th, 2025
+Last updated: March 16th, 2026
 
 <br />
 
@@ -154,18 +154,19 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | 7 | [Integers - recreation one](https://www.codewars.com/kata/55aa075506463dac6600010d) |
 | 8 | [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004) |
 | 9 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) |
-| 10 | [Moving zeros to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
-| 11 | [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059) |
-| 12 | [Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7) |
-| 13 | [Product of consecutive Fibonacci numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
-| 14 | [RGB To Hex conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) |
-| 15 | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
-| 16 | [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) |
-| 17 | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
-| 18 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) |
-| 19 | [Valid parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688) |
-| 20 | [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) |
-| 21 | [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) |
+| 10 | [My smallest code interpreter - Brainf**k](https://www.codewars.com/kata/526156943dfe7ce06200063e) |
+| 11 | [Moving zeros to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
+| 12 | [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059) |
+| 13 | [Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7) |
+| 14 | [Product of consecutive Fibonacci numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
+| 15 | [RGB To Hex conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) |
+| 16 | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
+| 17 | [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) |
+| 18 | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
+| 19 | [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) |
+| 20 | [Valid parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688) |
+| 21 | [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc) |
+| 22 | [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) |
 
 <h1></h1>
 
