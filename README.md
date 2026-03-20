@@ -44,7 +44,7 @@ The complete Codewars documentation can be found <a href="https://docs.codewars.
 
 | Rank | Honor | Honor percentile | Leaderboard position | Kata completed |
 | :---: | :---: | :---: | :---: | :---: |
-| 2 kyu | 2,317 | top 0.997% | # 7,473 | 110 |
+| 2 kyu | 2,445 | top 0.903% | # 6,771 | 111 |
 
 Last updated: March 20th, 2026
 
@@ -90,6 +90,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | # | Kata |
 | :---: | --- |
 | 1 | [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005) |
+| 2 | [Simpler Interactive Interpreter](https://www.codewars.com/kata/53005a7b26d12be55c000243) |
 
 <h1></h1>
 
