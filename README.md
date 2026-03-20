@@ -64,7 +64,7 @@ The GitHub repository with all Kata solutions has been made private. Proof in a 
 | # | Kata | Rank | Reason |
 | :---: | --- | :---: | --- |
 | 1 | [Tiny 3-pass compiler](https://www.codewars.com/kata/5265b0885fda8eac5900093b) | 1 kyu | Compilation of functions to Assembly-like language |
-| 2 | [Simple Interactive Interpreter](https://www.codewars.com/kata/52ffcfa4aff455b3c2000750) | 1 kyu | Interpretation of functions and expressions with state preservation |
+| 2 | [Simple Interactive Interpreter](https://www.codewars.com/kata/52ffcfa4aff455b3c2000750) | 1 kyu | Interpretation of functions and expressions |
 | 3 | [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005) | 2 kyu | Parsing mathematical expressions |
 | 4 | [Binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b) | 3 kyu | Algebra application |
 | 5 | [Decode secret messages](https://www.codewars.com/kata/52cf02cd825aef67070008fa) | 3 kyu | Encryption algorithm reversal |
